@@ -1,4 +1,13 @@
-Face Recoginition And Attendence System
-Project made using Python and OpenCv
-It captures the image on webcam and match it with database and stores the attendence in excel sheet
-You need Pycharm install in your Windows to smoothly run the project on your system
+<h1 align="center">Attendence System Using Face Recoginition</h1>
+
+## Introduction:
+Face Recoginition is done through image captured by webcam and then matching that image with dataset and attendence gets stored in csv file.
+  
+## Table Of Contents
+- Image capture by webcam
+- Face Recoginition in captured image
+- Marking attendence in csv file
+
+## Technology Stack:
+  1) Python
+  2) OpenCV
